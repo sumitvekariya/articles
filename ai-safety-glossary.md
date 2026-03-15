@@ -28,7 +28,7 @@ Almost everything in AI safety is trying to answer one of these:
 
 When I encounter a new term now, I just ask which question it belongs to. That alone made the field navigable for me.
 
-[IMAGE 1: ai-safety-four-questions.png — place here]
+![Four questions that organize AI safety](assets/ai-safety-four-questions.png)
 
 ---
 
@@ -135,7 +135,7 @@ The question is: what happens when the gap between what AI can produce and what 
 
 ## Security and failure modes
 
-[IMAGE 2: ai-safety-security-failure-modes.png — place here]
+![Security and failure modes in AI](assets/ai-safety-security-failure-modes.png)
 
 ### Adversarial examples
 
@@ -234,7 +234,7 @@ These are the institutional frameworks defining how AI safety gets enforced:
 
 ## Three concepts that bridge Web3 and AI safety
 
-[IMAGE 3: ai-safety-web3-bridge.png — place here]
+![Web3 and AI safety bridge](assets/ai-safety-web3-bridge.png)
 
 This is the section I'm most personally invested in, because I spent four years in Web3 before pivoting.
 
